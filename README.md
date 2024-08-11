@@ -62,8 +62,8 @@ or
 
 `python wrapper_cli.py -r e:\test -o export`
 
-待改进
 
-从meta的token中：
+如果输入目录下有ts文件程序会自动将ts文件转换为mp4文件
 
-获取视频文件名和视频文件自动分类
+待完善
+  可能存在多个ts文件合并问题，可以自行处理 目标代码：tecent_edu.py:245
